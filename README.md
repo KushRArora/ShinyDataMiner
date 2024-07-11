@@ -1,6 +1,6 @@
 # ShinyDataMiner
 # Entity-Extraction-Text-Data-NLP
-The aim of the project was to do the following:
+The aim of the project is to do the following:
 1) convert the unstructured text data (JOB DESCRIPTIONS) to structured format and derive the insights and visualisation for the same.
 2) Import the raw text data consits of more than 2000 job descriptions
 3) Clean the Raw data using Pre-processing steps with Text Mining package in R
